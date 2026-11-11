@@ -1,0 +1,2 @@
+/* Mereferensikan langsung ke file style.css */
+@import './style.css';
